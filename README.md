@@ -1,4 +1,16 @@
-### Hi there 👋
+## Hey! 👋
+I'm Thomas, a 27 years old web developer from France.
+
+- 👥 Senior Fullstack developer at [@thetribeIo](https://github.com/thetribeio/)
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript, Ruby
+- ⚙️ React, Vue
+- 👁️ SASS, CSS
+- 💽 PostgreSQL, MySQL
+
+## Contact
+- [@thomasdelcros](https://www.linkedin.com/in/thomasdelcros/) on linkedin
 
 <!--
 **thodelcros/thodelcros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
